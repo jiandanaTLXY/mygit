@@ -1,10 +1,7 @@
 # ===============================
 # Author:柠檬班-紫龙
-# Time  :2020/3/17 1:34
+# Time  :2020/3/17 2:50
 # Email :309803073@qq.com
-# File  :test02.py
+# File  :test05.py
 # ===============================
-
-a = 19
-b = 2
-print(f'{a} + {b} = {a+b}')
+#asfasdfasdfadfadfaf
